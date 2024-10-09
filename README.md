@@ -1,7 +1,9 @@
 # CRUD-Anggota
 
-Kelompok 3 :
-Fito Noverio F
-Maylafaiza G
-Prima Mukti
-Winni Lestari
+<h1>Kelompok 3</h1>
+<ol>
+<li>Fito Noverio F</li>
+<li>Maylafaiza G</li>
+<li>Prima Mukti</li>
+<li>Winni Lestari</li>
+</ol>
